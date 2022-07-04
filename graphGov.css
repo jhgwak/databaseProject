@@ -1,0 +1,33 @@
+body{
+    margin: auto 0;
+}
+.zone {
+    /* padding:30px 50px;
+    margin:40px 60px; */
+    cursor:pointer;
+    /* display:inline-block; */
+    font-size:2.5em;
+    border-radius:4px;
+    border:1px solid #bbb;
+    transition: all 0.3s linear;
+}
+.main-nav{
+    background:lightslategray;;
+    display: flex;
+    list-style: none;
+    font-style: 0.5em;
+    margin: 0;
+}
+.push{
+    margin-left: auto;
+}
+
+li{
+    padding: 15px;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 0.4em;
+}
